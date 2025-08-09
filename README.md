@@ -1,3 +1,8 @@
 PORT=5000
-MONGO_URI=mongodb+srv://pulsetechnology:pulsetechnology1122@cluster0.jnhnr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+MONGO_URI=mongodb+srv://pulsetechnology:pulsetechnology1122@cluster0.jnhnr.mongodb.net/pulse_technology?retryWrites=true&w=majority&appName=Cluster0
+
 JWT_SECRET=19c812fd9e7f4861be5f724bcc2e2acfb94c9e56db7a4c77b5b2f0b128e961cc
+CLOUDINARY_CLOUD_NAME=dfu42ul7b
+CLOUDINARY_API_KEY=883979974742622
+CLOUDINARY_API_SECRET=KFjnaHHTW_zp_1U3lAP2DiJ5FzI
